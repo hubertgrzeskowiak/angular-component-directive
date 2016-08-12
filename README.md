@@ -1,4 +1,4 @@
-# angular-component-directive
+# Angular module: component-directive
 AngularJS 1 directive for rendering of dynamic / procedural components.
 
 Original by @hubertgrzeskowiak
