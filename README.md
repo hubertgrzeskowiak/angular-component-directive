@@ -1,8 +1,10 @@
 # Angular module: component-directive
 AngularJS 1 directive for rendering of dynamic / procedural components.
 
-Original by @hubertgrzeskowiak
+Original by Hubert Grzeskowiak
+
 Copyright Hubert Grzeskowiak 2016
+
 License: MIT
 
 ## Demo
