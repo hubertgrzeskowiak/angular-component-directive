@@ -52,8 +52,7 @@ All attributes are optional, but you should provide at least `name` for it to be
 The following code is the most simple usage of the directive:
 
     <component name="'mycomponent'"></component>
-    
-It's rendered as:
+    It's rendered as:
 
     <component name="'mycomponent'">
         <mycomponent></mycomponent>
@@ -93,9 +92,7 @@ Keep in mind that the value of `arg1` above is an expression and is evaluated in
 ### Using `replace`
 From the examples above you probably noticed that the component element stays in the DOM and only renders the requested component as its own child. Sometimes you rather want to have the inner component only. For this, you can pass the `replace` attribute with a boolean of `true` to tell the directive to replace itself with the component.
 
-    <component name="'mycomponent'" replace="true">
-        <mycomponent></mycomponent>
-    </component>
+    <component name="'mycomponent'" replace="true"></component>
 
 renders into this:
 
