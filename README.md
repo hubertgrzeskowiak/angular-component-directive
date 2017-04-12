@@ -38,7 +38,7 @@ The directive `component` you'll find in this repository is capable of rendering
  
         <script src="component.js"></script>
 
-2. Declare a dependency on the moduke where you're using it:
+2. Declare a dependency on the module where you're using it:
 
         angular.module('awesomeApp', ['component'])
 
