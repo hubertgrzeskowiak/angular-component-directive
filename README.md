@@ -36,7 +36,7 @@ The directive `component` you'll find in this repository is capable of rendering
 ## Usage
 1. Include the `component.js` file in your HTML:
  
-        <script src="components.js"></script>
+        <script src="component.js"></script>
 
 2. Declare a dependency on the moduke where you're using it:
 
